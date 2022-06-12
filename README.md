@@ -1,6 +1,8 @@
 
 
 # 🎱 Magic 8 Ball 🎱
+![This is an image](https://github.com/HendMohammed90/Magic-8-Ball-App/blob/master/images/Screen%20Shot%202022-06-12%20at%202.53.28%20PM.png)
+
 
 ## Our Goal
 
